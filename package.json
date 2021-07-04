@@ -1,0 +1,14 @@
+{
+  "name": "chartserver",
+  "version": "1.0.0",
+  "description": "a nodejs charts server",
+  "main": "index.js",
+  "author": "karan <kshah@sonicwall.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "echarts": "^5.1.2",
+    "express": "^4.17.1",
+    "puppeteer": "^10.0.0"
+  }
+}
